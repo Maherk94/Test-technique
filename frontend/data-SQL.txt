@@ -1,4 +1,4 @@
-INSERT INTO person (lastName, firstName, email, phoneNumber) VALUES
+INSERT INTO person ( lastName, firstName, email, phoneNumber) VALUES
 ('Lee', 'Sarah', 'sarah.lee1@example.com', '555-0355'),
 ('Doe', 'Chris', 'chris.doe2@example.com', '555-0332'),
 ('Doe', 'Jane', 'jane.doe3@example.com', '555-0394'),
